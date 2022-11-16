@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T01:58:09.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="aU0EdIynF-NfE_YNhEE0" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T02:06:11.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fodvSpS-TKdUkIfHGeqo" version="20.5.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -21,13 +21,13 @@
         <mxCell id="b4Un5WXx3qHsCc8vYK4t-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.495;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="2" source="b4Un5WXx3qHsCc8vYK4t-65" target="b4Un5WXx3qHsCc8vYK4t-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b4Un5WXx3qHsCc8vYK4t-65" value="Menu Supplier" style="" vertex="1" parent="2">
+        <mxCell id="b4Un5WXx3qHsCc8vYK4t-65" value="Memilih menu &#xa;supplier" style="" vertex="1" parent="2">
           <mxGeometry x="85" y="502" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b4Un5WXx3qHsCc8vYK4t-68" value="Input data" style="" vertex="1" parent="2">
           <mxGeometry x="85" y="592" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="b4Un5WXx3qHsCc8vYK4t-75" value="Menerima hasil &#xa;cetakan" style="" vertex="1" parent="2">
+        <mxCell id="b4Un5WXx3qHsCc8vYK4t-75" value="Menerima hasil &#xa;cetakan data" style="" vertex="1" parent="2">
           <mxGeometry x="85" y="692" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Sistem" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
