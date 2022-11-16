@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T01:02:44.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="OVF9fBHLwWIFaQYhfDqD" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T01:14:48.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9Mc2Pl_5q9zszNHCgfd-" version="20.5.1" type="github">
   <diagram id="o3cT7ujyUOWXBNFYJ1du" name="Page-1">
     <mxGraphModel dx="1240" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,6 +6,14 @@
         <mxCell id="1" parent="0" />
         <mxCell id="PlVHxBiulNiWGtx-sejH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlVHxBiulNiWGtx-sejH-1" target="PlVHxBiulNiWGtx-sejH-22">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlVHxBiulNiWGtx-sejH-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlVHxBiulNiWGtx-sejH-1" target="PlVHxBiulNiWGtx-sejH-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="200" />
+              <mxPoint x="80" y="495" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PlVHxBiulNiWGtx-sejH-1" value="Pengunjung&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="40" height="80" as="geometry" />
@@ -81,6 +89,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PlVHxBiulNiWGtx-sejH-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlVHxBiulNiWGtx-sejH-30" target="PlVHxBiulNiWGtx-sejH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlVHxBiulNiWGtx-sejH-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlVHxBiulNiWGtx-sejH-30" target="PlVHxBiulNiWGtx-sejH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlVHxBiulNiWGtx-sejH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PlVHxBiulNiWGtx-sejH-30" target="PlVHxBiulNiWGtx-sejH-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PlVHxBiulNiWGtx-sejH-30" value="Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
