@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T12:49:21.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="20.7.4" etag="IagjuxV_RatrqpWMndVq" type="github">
-  <diagram id="loiQOGwS_ZVaxs_F4nT6" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2023-05-22T13:18:47.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="20.7.4" etag="hKpQPpa8SCsoA9nlt0Zy" type="github" pages="2">
+  <diagram id="loiQOGwS_ZVaxs_F4nT6" name="Flowchart umum">
     <mxGraphModel dx="1035" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -13,7 +13,7 @@
         <mxCell id="RUW-xjp0SyhLDAsyHLOP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;startSize=6;" edge="1" parent="1" source="RUW-xjp0SyhLDAsyHLOP-7" target="RUW-xjp0SyhLDAsyHLOP-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RUW-xjp0SyhLDAsyHLOP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;startSize=6;" edge="1" parent="1" source="RUW-xjp0SyhLDAsyHLOP-7" target="RUW-xjp0SyhLDAsyHLOP-15">
+        <mxCell id="RUW-xjp0SyhLDAsyHLOP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startSize=6;" edge="1" parent="1" source="RUW-xjp0SyhLDAsyHLOP-7" target="RUW-xjp0SyhLDAsyHLOP-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUW-xjp0SyhLDAsyHLOP-7" value="? session account" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
@@ -29,27 +29,101 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUW-xjp0SyhLDAsyHLOP-11" value="Dashboard page" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="520" y="680" width="100" height="100" as="geometry" />
+          <mxGeometry x="520" y="740" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RUW-xjp0SyhLDAsyHLOP-13" value="TRUE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="480" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUW-xjp0SyhLDAsyHLOP-14" value="FALSE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="340" y="440" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RUW-xjp0SyhLDAsyHLOP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=6;" edge="1" parent="1" source="RUW-xjp0SyhLDAsyHLOP-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="550" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="RUW-xjp0SyhLDAsyHLOP-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;startSize=6;" edge="1" parent="1" source="RUW-xjp0SyhLDAsyHLOP-15" target="RUW-xjp0SyhLDAsyHLOP-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUW-xjp0SyhLDAsyHLOP-15" value="Login Page" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="360" y="500" width="100" height="100" as="geometry" />
+          <mxGeometry x="160" y="340" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RUW-xjp0SyhLDAsyHLOP-24" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="360" y="700" width="100" height="60" as="geometry" />
+          <mxGeometry x="360" y="760" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RUW-xjp0SyhLDAsyHLOP-28" value="&lt;b&gt;Algoriitma Umum Aplikasi :&lt;br&gt;&lt;/b&gt;1. Masuk ke landing page&lt;br&gt;2. Jika ada akun session yang tersimpan pada state aplikasi, masuk ke dashboard page&lt;br&gt;3. Jika tidak ada, masuk ke Login page&lt;br&gt;4. end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="RUW-xjp0SyhLDAsyHLOP-28" value="&lt;b&gt;Algoriitma Umum Aplikasi :&lt;br&gt;&lt;br&gt;&lt;/b&gt;1. Masuk ke landing page&lt;br&gt;2. Jika ada akun session yang tersimpan pada state aplikasi, masuk ke dashboard page&lt;br&gt;3. Jika tidak ada, masuk ke Login page&lt;br&gt;4. end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="250" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="RUW-xjp0SyhLDAsyHLOP-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;startSize=6;" edge="1" parent="1" source="RUW-xjp0SyhLDAsyHLOP-36" target="RUW-xjp0SyhLDAsyHLOP-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUW-xjp0SyhLDAsyHLOP-36" value="&lt;a href=&quot;data:page/id,MQdzSRnDI5lpGEGtohtI&quot;&gt;login_function&lt;/a&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="530" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RUW-xjp0SyhLDAsyHLOP-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startSize=6;" edge="1" parent="1" source="RUW-xjp0SyhLDAsyHLOP-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="679.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUW-xjp0SyhLDAsyHLOP-40" value="? Login Sukses" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUW-xjp0SyhLDAsyHLOP-49" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;startSize=6;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RUW-xjp0SyhLDAsyHLOP-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="540" as="sourcePoint" />
+            <mxPoint x="80" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUW-xjp0SyhLDAsyHLOP-50" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;startSize=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="680" as="sourcePoint" />
+            <mxPoint x="80" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUW-xjp0SyhLDAsyHLOP-51" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;startSize=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="480" as="sourcePoint" />
+            <mxPoint x="210" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUW-xjp0SyhLDAsyHLOP-53" value="FALSE&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="650" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUW-xjp0SyhLDAsyHLOP-54" value="TRUE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="250" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MQdzSRnDI5lpGEGtohtI" name="Flowchart login">
+    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X5czrQNsKGbMFtIsZ5uj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;startSize=6;" edge="1" parent="1" source="xJyqLQDcP0aSeej_Ihy0-1" target="X5czrQNsKGbMFtIsZ5uj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xJyqLQDcP0aSeej_Ihy0-1" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=16;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4V9v_qj678MZhV94eIMA-1" value="&lt;b&gt;Algoritma Login :&lt;br&gt;&lt;/b&gt;&lt;br&gt;1. Input username&lt;br&gt;2. Input password&lt;br&gt;3. Jika username atau password tidak ditulis, muncul &quot;Silakan masukkan username dan password&quot;,&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;4. Jika password tidak ditemukan di database, muncul &quot;Account not found&quot;,&lt;br&gt;5. cek&amp;nbsp; akses apakah yang dipenuhi oleh akun&lt;br&gt;6. Jika semua sudah terpenuhi, masuki admin_depan page dengan akses yang dipenuhi oleh akun" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="230" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="X5czrQNsKGbMFtIsZ5uj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;startSize=6;" edge="1" parent="1" source="X5czrQNsKGbMFtIsZ5uj-2" target="X5czrQNsKGbMFtIsZ5uj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X5czrQNsKGbMFtIsZ5uj-2" value="Input &lt;br&gt;username" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X5czrQNsKGbMFtIsZ5uj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;startSize=6;" edge="1" parent="1" source="X5czrQNsKGbMFtIsZ5uj-4" target="X5czrQNsKGbMFtIsZ5uj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X5czrQNsKGbMFtIsZ5uj-4" value="Input &lt;br&gt;password" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X5czrQNsKGbMFtIsZ5uj-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startSize=6;" edge="1" parent="1" source="X5czrQNsKGbMFtIsZ5uj-8" target="X5czrQNsKGbMFtIsZ5uj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X5czrQNsKGbMFtIsZ5uj-8" value="? username &amp;amp; password &lt;br&gt;== empty" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=2;gradientColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="530" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="X5czrQNsKGbMFtIsZ5uj-10" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;gradientColor=none;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
