@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T03:31:48.422Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="CkAWCfWW-KNP72_v6nw-" version="21.3.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-25T12:35:49.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jfFHVR_Hc0FE2Rg9znFF" version="21.3.2" type="github" pages="2">
   <diagram id="loiQOGwS_ZVaxs_F4nT6" name="Flowchart umum">
-    <mxGraphModel dx="1222" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,26 +91,189 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MQdzSRnDI5lpGEGtohtI" name="Flowchart login">
-    <mxGraphModel dx="1134" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4V9v_qj678MZhV94eIMA-1" value="&lt;b&gt;Algoritma Login :&lt;br&gt;&lt;/b&gt;&lt;br&gt;1. Input username&lt;br&gt;2. Input password&lt;br&gt;3. Jika username atau password tidak ditulis, muncul &quot;Silakan masukkan username dan password&quot;,&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;4. Jika password tidak ditemukan di database, muncul &quot;Account not found&quot;,&lt;br&gt;5. cek&amp;nbsp; akses apakah yang dipenuhi oleh akun&lt;br&gt;6. Jika semua sudah terpenuhi, masuki admin_depan page dengan akses yang dipenuhi oleh akun" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="230" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="KMvj5KDge5Wu-cEpwmtK-9" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="30" height="60" as="geometry" />
+        <mxCell id="Apf8BySceUiDZxfGoQpC-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="40" height="90" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="W8p1G4ZiEo76ZsAPPJRD" name="Sequence diagram login">
-    <mxGraphModel dx="794" dy="-700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="tJ4P853JqhU447o54aST-3" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Algoritma Login :&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;1. Input username&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;2. Input password&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;3. Jika username atau password tidak ditulis, muncul &quot;Silakan masukkan username dan password&quot;,&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: initial; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;4. Jika password tidak ditemukan di database, muncul &quot;Account not found&quot;,&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;5. cek&amp;nbsp; akses apakah yang dipenuhi oleh akun&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;6. Jika semua sudah terpenuhi, masuki admin_depan page dengan akses yang dipenuhi oleh akun&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1240" width="240" height="360" as="geometry" />
+        <mxCell id="Apf8BySceUiDZxfGoQpC-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="190" as="sourcePoint" />
+            <mxPoint x="380" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.3;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Apf8BySceUiDZxfGoQpC-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="242" as="sourcePoint" />
+            <mxPoint x="540" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-10" value="Login Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Apf8BySceUiDZxfGoQpC-16" target="Apf8BySceUiDZxfGoQpC-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639.5" y="170" as="sourcePoint" />
+            <mxPoint x="640" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Visit&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="55" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Input username dan password&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="280" width="220" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Apf8BySceUiDZxfGoQpC-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="318" as="sourcePoint" />
+            <mxPoint x="540" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Apf8BySceUiDZxfGoQpC-10" target="Apf8BySceUiDZxfGoQpC-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="160" as="sourcePoint" />
+            <mxPoint x="640" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="235" width="10" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Apf8BySceUiDZxfGoQpC-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="370" as="sourcePoint" />
+            <mxPoint x="910" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-19" value="Login Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-21" value="Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-22" value="Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-31" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Kirim username / password&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="320" width="220" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-33" value="" style="endArrow=classic;html=1;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="385" as="sourcePoint" />
+            <mxPoint x="910" y="435" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-34" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Validasi data login user&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="390" width="220" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Apf8BySceUiDZxfGoQpC-22" target="Apf8BySceUiDZxfGoQpC-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="430" as="sourcePoint" />
+            <mxPoint x="740" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="450" width="580" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-36" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=default;fillColor=none;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-42">
+          <mxGeometry x="8.787878787878789" width="571.2121212121212" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-39" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;direction=west;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-42">
+          <mxGeometry x="8.787878787878789" width="43.93939393939394" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-40" value="Alt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-42">
+          <mxGeometry width="52.727272727272734" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-44" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;exitX=0.965;exitY=0.259;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.259;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Apf8BySceUiDZxfGoQpC-42" source="Apf8BySceUiDZxfGoQpC-36" target="Apf8BySceUiDZxfGoQpC-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="170" as="sourcePoint" />
+            <mxPoint x="390" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-49" value="[Login Data benar]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-42">
+          <mxGeometry x="220" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-42">
+          <mxGeometry x="285" y="52.5" width="10" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-52" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;login user benar&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-42">
+          <mxGeometry x="360" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-53" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0.259;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Apf8BySceUiDZxfGoQpC-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="170" as="sourcePoint" />
+            <mxPoint x="29" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-54" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Login sukses (message)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-42">
+          <mxGeometry x="80" y="140" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-55" value="" style="endArrow=classic;html=1;curved=1;" edge="1" parent="Apf8BySceUiDZxfGoQpC-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="100" as="sourcePoint" />
+            <mxPoint x="295" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="365" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-56" value="Redirect dashboard page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-42">
+          <mxGeometry x="330" y="120" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-69" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="720" width="580" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-70" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=default;fillColor=none;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-69">
+          <mxGeometry x="8.787878787878789" width="571.2121212121212" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-71" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;direction=west;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-69">
+          <mxGeometry x="8.787878787878789" width="43.93939393939394" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-72" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-69">
+          <mxGeometry width="52.727272727272734" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-73" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;exitX=0.965;exitY=0.259;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.259;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Apf8BySceUiDZxfGoQpC-69" source="Apf8BySceUiDZxfGoQpC-70" target="Apf8BySceUiDZxfGoQpC-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="170" as="sourcePoint" />
+            <mxPoint x="390" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-74" value="[Login Data Gagal]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-69">
+          <mxGeometry x="220" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-69">
+          <mxGeometry x="285" y="52.5" width="10" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;login user gagal&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-69">
+          <mxGeometry x="360" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-77" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;entryX=0.5;entryY=0.259;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Apf8BySceUiDZxfGoQpC-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="170" as="sourcePoint" />
+            <mxPoint x="29" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-78" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;hapus password field&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-69">
+          <mxGeometry x="80" y="140" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-79" value="" style="endArrow=classic;html=1;curved=1;" edge="1" parent="Apf8BySceUiDZxfGoQpC-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="100" as="sourcePoint" />
+            <mxPoint x="295" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="365" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Apf8BySceUiDZxfGoQpC-80" value="Redirect login page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Apf8BySceUiDZxfGoQpC-69">
+          <mxGeometry x="330" y="120" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
