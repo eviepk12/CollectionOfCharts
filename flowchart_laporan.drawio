@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T15:42:40.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.7" etag="owgyU9Qc6Kg99m_4sKCt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T10:46:25.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FfhPHi3bLozwacFat_Xk" version="21.3.7" type="github">
   <diagram name="Page-1" id="VcfC3tjIvzI1CkLFSxum">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8FLhhNMISJftzBXDQEhw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8FLhhNMISJftzBXDQEhw-1" target="8FLhhNMISJftzBXDQEhw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8FLhhNMISJftzBXDQEhw-1" value="Buat project Flutter" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8FLhhNMISJftzBXDQEhw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8FLhhNMISJftzBXDQEhw-2" target="8FLhhNMISJftzBXDQEhw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8FLhhNMISJftzBXDQEhw-2" value="Install semua dependency yang dibutuhkan oleh project" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8FLhhNMISJftzBXDQEhw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8FLhhNMISJftzBXDQEhw-4" target="8FLhhNMISJftzBXDQEhw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8FLhhNMISJftzBXDQEhw-4" value="import semua depency yang akan digunakan dalam kode" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8FLhhNMISJftzBXDQEhw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8FLhhNMISJftzBXDQEhw-6" target="8FLhhNMISJftzBXDQEhw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8FLhhNMISJftzBXDQEhw-6" value="Kode semua fitur-fitur yang akan digunakan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8FLhhNMISJftzBXDQEhw-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8FLhhNMISJftzBXDQEhw-8" target="8FLhhNMISJftzBXDQEhw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8FLhhNMISJftzBXDQEhw-8" value="Debug fitur untuk bug" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8FLhhNMISJftzBXDQEhw-10" value="Benarkan kode untuk effisiensi dan best practices jika perlu" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
