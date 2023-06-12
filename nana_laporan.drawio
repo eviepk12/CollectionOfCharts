@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T01:41:29.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.3" etag="RSm13phkW4fgenddepzq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T01:51:21.309Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Yx5A_bjj_Bo3U07oS-8H" version="21.3.3" type="github">
   <diagram name="Page-1" id="IWj-ZG2n2ZSzglI-JNet">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="99fj1OPg4IwPMKsba2Fc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99fj1OPg4IwPMKsba2Fc-1" target="99fj1OPg4IwPMKsba2Fc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99fj1OPg4IwPMKsba2Fc-1" value="Konsultasi dengan design original" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="99fj1OPg4IwPMKsba2Fc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99fj1OPg4IwPMKsba2Fc-2" target="99fj1OPg4IwPMKsba2Fc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99fj1OPg4IwPMKsba2Fc-2" value="Abstraksi design ke model box" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="99fj1OPg4IwPMKsba2Fc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99fj1OPg4IwPMKsba2Fc-4" target="99fj1OPg4IwPMKsba2Fc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99fj1OPg4IwPMKsba2Fc-4" value="Realisasi design pada kode" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="99fj1OPg4IwPMKsba2Fc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99fj1OPg4IwPMKsba2Fc-6" target="99fj1OPg4IwPMKsba2Fc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99fj1OPg4IwPMKsba2Fc-6" value="Pastikan hasil akhir sesuai dengan design original" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="99fj1OPg4IwPMKsba2Fc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99fj1OPg4IwPMKsba2Fc-8" target="99fj1OPg4IwPMKsba2Fc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99fj1OPg4IwPMKsba2Fc-8" value="Konsultasi dengan designer" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="99fj1OPg4IwPMKsba2Fc-10" value="Finalisasi kode pada design" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
